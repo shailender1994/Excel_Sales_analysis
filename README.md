@@ -1,14 +1,14 @@
-# Sales & Financial Analysis 
+# Sales & Financial Analysis
 
 ## Project Overview
 This repository contains the Excel-based Sales Report and Finance P&L Report project I completed as part of the Codebasics course. The project uses a dataset from AtliQ Hardware, containing over half a million records, to perform comprehensive sales and financial analysis.
 
 ## Table of Contents
-- Project Overview
-- Dataset
-- Sales Report
-- Finance P&L Report
-- Skills and Tools Used
+- [Project Overview](#project-overview)
+- [Dataset](#dataset)
+- [Sales Report](#sales-report)
+- [Finance P&L Report](#finance-pl-report)
+- [Skills and Tools Used](#skills-and-tools-used)
 
 ## Dataset
 The dataset is sourced from AtliQ Hardware and includes extensive records from 2019 to 2021. It provides detailed information on sales performance, market targets, product sales, and financial metrics.
@@ -48,4 +48,3 @@ Generated additional reports, including:
 
 ### ETL Process:
 - Extract, Transform, Load
-
